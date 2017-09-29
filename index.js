@@ -1,3 +1,3 @@
 function add() {
-  var a, b; = (a * b)
+  var a, b; = (a + b)
 }
